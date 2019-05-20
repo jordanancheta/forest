@@ -100,11 +100,11 @@ UserDetails.defaultProps = {
   userData: {
     coverImg: require("../../images/user-profile/up-user-details-background.jpg"),
     avatarImg: require("../../images/avatars/0.jpg"),
-    name: "Sierra Brooks",
-    bio: "I'm a design focused engineer.",
-    email: "sierra@example.com",
-    location: "Remote",
-    phone: "+40 1234 567 890",
+    name: "Jordan Ancheta ",
+    bio: "Senior Esitomator",
+    email: "jordan@example.com",
+    location: "Newport Beach ",
+    phone: "909 438 1433",
     accNumber: "123456789",
     social: {
       facebook: "#",
@@ -113,12 +113,7 @@ UserDetails.defaultProps = {
       slack: "#"
     },
     tags: [
-      "User Experience",
-      "UI Design",
-      "React JS",
-      "HTML & CSS",
-      "JavaScript",
-      "Bootstrap 4"
+      
     ]
   }
 };
